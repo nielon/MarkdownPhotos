@@ -46,6 +46,7 @@ Markdown 简洁好用是毋庸置疑的。但是在使用中碰到过以下几�
 有人觉得“无规矩不成方圆”，没有标准的话未来发展空间有限；也有同志认为正是因为没有标准，才会出现各种扩展，百花齐放。
 
 扩展阅读：
+
 1. [Markdown and CommonMark](http://blog.chrisyip.im/markdown-and-commonmark)
 2. [互联网中的左派与右派](http://ju.outofmemory.cn/entry/141265)
 
